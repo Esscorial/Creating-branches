@@ -19,7 +19,8 @@
 
 Ќиже пример кода из нашего приложени€:
 
-```.selector {
+```
+.selector {
   font-family: "Awesome", Arial, sans-serif;
   color: red;
 }
